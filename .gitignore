@@ -1,0 +1,5 @@
+# ignore jupyter checkpoints
+*/.ipynb_checkpoints/*.ipynb
+
+# ignore mac stuff
+.DS_Store
