@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.10
+  - pip
   - ipython
   - jupyter
   - jupyterlab
@@ -12,3 +13,6 @@ dependencies:
   - matplotlib
   - seaborn
   - scipy
+  - scikit-learn
+  - pip:
+    - sidetable
