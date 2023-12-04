@@ -14,5 +14,8 @@ dependencies:
   - seaborn
   - scipy
   - scikit-learn
+  - graphviz
+  - python-graphviz
+  - py-xgboost
   - pip:
     - sidetable
