@@ -21,3 +21,4 @@ dependencies:
     - sidetable
     - torch
     - keras
+    - nltk
